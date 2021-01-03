@@ -3,7 +3,7 @@ nj-jay 一名追逐梦想的大三技术人,java和go后端开发。喜欢做自
 ## Contact me
 
 * [bilibili@跨时代的jay](https://space.bilibili.com/403940032)
-* [知乎@jay](https://www.zhihu.com/people/jay-30-86)
+* [知乎@jay](https://www.zhihu.com/people/cloud-coder)
 * [微信公众号@跨时代的jay](https://mp.weixin.qq.com/s/CBdkGyQKoUmfSO3nfhXeDg)
 * [个人博客@跨时代的jay-一路向北](https://blog.nj-jay.com)
 
